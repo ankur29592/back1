@@ -4,6 +4,7 @@ metadata:
   name: back1
   annotations:
     backstage.io/kubernetes-id: back1
+    dev.azure.com/project-repo: T2R/T2R
 spec:
   type: service
   lifecycle: unknown
