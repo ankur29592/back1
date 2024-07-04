@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: back1
+  annotations:
+    github.com/project-slug: ankur29592/back1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
